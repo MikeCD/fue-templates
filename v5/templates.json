@@ -1,0 +1,36 @@
+{
+
+    "5": 
+
+{
+
+    "id": "5",
+    "slug": "fue-responsive-one-column-sections",
+    "name": "Responsive 1 Column - Sections",
+    "thumbnail": "https://github.com/MikeCD/fue-templates/v5/fue-responsive-one-column/200x200.png",
+    "image": "https://github.com/MikeCD/fue-templates/v5/fue-responsive-one-column/600x600.png",
+    "description": "Responsive 1 Column template",
+    "url": "https://github.com/MikeCD/fue-templates/v5/fue-responsive-one-column-sections/template.html"
+},
+"6": 
+{
+    "id": "6",
+    "slug": "fue-responsive-two-columns-sections",
+    "name": "Responsive 2 Columns - Sections",
+    "version": "2.0",
+    "thumbnail": "https://github.com/MikeCD/fue-templates/v5/fue-responsive-two-sub-columns/200x200.png",
+    "image": "https://github.com/MikeCD/fue-templates/v5/fue-responsive-two-sub-columns/600x600.png",
+    "description": "Responsive 2-Column template",
+    "url": "https://github.com/MikeCD/fue-templates/v5/fue-responsive-two-sub-columns/template.html"
+},
+"7": 
+    {
+        "id": "7",
+        "slug": "fue-responsive-three-columns-with-hero-sections",
+        "name": "Responsive 3 Columns with Hero - Sections",
+        "thumbnail": "https://github.com/MikeCD/fue-templates/v5/fue-responsive-three-column-hero/200x200.png",
+        "image": "https://github.com/MikeCD/fue-templates/v5/fue-responsive-three-column-hero/600x600.png",
+        "description": "Responsive 3-Column with Hero template",
+        "url": "https://github.com/MikeCD/fue-templates/v5/fue-responsive-three-columns-with-hero-sections/template.html"
+    }
+}
