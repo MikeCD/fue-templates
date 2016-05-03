@@ -7,8 +7,8 @@
     "id": "5",
     "slug": "fue-responsive-one-column-sections",
     "name": "Responsive 1 Column - Sections",
-    "thumbnail": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-one-column/200x200.png",
-    "image": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-one-column/600x600.png",
+    "thumbnail": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-one-column-sections/200x200.png",
+    "image": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-one-column-sections/600x600.png",
     "description": "Responsive 1 Column template",
     "url": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-one-column-sections/template.html"
 },
@@ -18,10 +18,10 @@
     "slug": "fue-responsive-two-columns-sections",
     "name": "Responsive 2 Columns - Sections",
     "version": "2.0",
-    "thumbnail": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-two-columns/200x200.png",
-    "image": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-two-columns/600x600.png",
+    "thumbnail": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-two-columns-sections/200x200.png",
+    "image": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-two-columns-sections/600x600.png",
     "description": "Responsive 2-Column template",
-    "url": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-two-columns/template.html"
+    "url": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-two-columns-sections/template.html"
 },
 "7": 
     {
@@ -31,6 +31,6 @@
         "thumbnail": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-three-columns-with-hero/200x200.png",
         "image": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-three-columns-with-hero/600x600.png",
         "description": "Responsive 3-Column with Hero template",
-        "url": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-three-columns-with-hero-sections/template.html"
+        "url": "https://raw.githubusercontent.com/MikeCD/fue-templates/master/v5/fue-responsive-three-columns-with-hero/template.html"
     }
 }
